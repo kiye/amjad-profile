@@ -1,2 +1,0 @@
-# amjad-profile
-cv repository
